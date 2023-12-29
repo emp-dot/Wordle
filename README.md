@@ -4,7 +4,7 @@ This is a word game where users can input corresponding matching alphabets.
 Submitted by: **Gideon Boateng**
 
 **Wordle** is an app that where users can input corresponding matching alphabets [TODO] 
-https://github.com/emp-dot/Wordle/blob/main/ezgif.com-video-to-gif-converter.gif
+`TODO://`  <img src="https://github.com/emp-dot/Wordle/blob/main/ezgif.com-video-to-gif-converter.gif" width="400" />
 Time spent: **3** hours spent in total
 
 ## Required Features
